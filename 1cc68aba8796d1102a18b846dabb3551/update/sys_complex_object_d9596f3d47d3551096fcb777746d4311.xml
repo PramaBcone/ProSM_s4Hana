@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD19596f3dfdd3551047e1c6c5ffda4c11</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>1cc68aba8796d1102a18b846dabb3551</scope_name>
+        <serialized_content>{"FlowDesigner:FD19596f3dfdd3551047e1c6c5ffda4c11":{"$COCollectionField":[{"Service_Master_Data":{"SPRAS":"String","SPRAS.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Language Key\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"ee6ccedd-c5b3-4607-938f-505035f4d113\"}"},"ASKTX":"String","ASKTX.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Service Short Text\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"591fb6b5-7a14-42a9-ae83-cf48007327a6\"}"},"ASNUM":"String","ASNUM.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Activity Number\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"5b2edbca-1797-4603-9995-bf72242d265a\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Service Master\",\"mandatory\":\"false\",\"child_name\":\"Service_Master_Data\",\"uiUniqueId\":\"3d543e49-d263-48fd-bdf0-43376da79bc0\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD19596f3dfdd3551047e1c6c5ffda4c11\",\"child_label\":\"Service Master Data\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"0c790ccc-df2c-4489-9dd9-d6241da9ffbd\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD19596f3dfdd3551047e1c6c5ffda4c11.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Service Master\",\"mandatory\":\"false\",\"child_name\":\"Service_Master_Data\",\"uiUniqueId\":\"3d543e49-d263-48fd-bdf0-43376da79bc0\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD19596f3dfdd3551047e1c6c5ffda4c11\",\"child_label\":\"Service Master Data\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"0c790ccc-df2c-4489-9dd9-d6241da9ffbd\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>krishna</sys_created_by>
+        <sys_created_on>2022-11-22 08:47:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d9596f3d47d3551096fcb777746d4311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1cc68aba8796d1102a18b846dabb3551</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration with SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_update_name>sys_complex_object_d9596f3d47d3551096fcb777746d4311</sys_update_name>
+        <sys_updated_by>krishna</sys_updated_by>
+        <sys_updated_on>2022-11-22 08:47:05</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

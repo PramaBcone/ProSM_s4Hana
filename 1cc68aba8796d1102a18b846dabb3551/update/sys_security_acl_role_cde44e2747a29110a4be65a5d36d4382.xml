@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-10-21 05:10:32</sys_created_on>
+        <sys_id>cde44e2747a29110a4be65a5d36d4382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_psm_sap_int_product_stg.sn_psm_sap_int.material_master_staging_table_user</sys_name>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration with SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_security_acl display_value="Procurement Service Management Integration with SAP">c9e44e2747a29110a4be65a5d36d437d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cde44e2747a29110a4be65a5d36d4382</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-10-21 05:10:32</sys_updated_on>
+        <sys_user_role display_value="Procurement Service Management Integration with SAP" name="sn_psm_sap_int.material_master_staging_table_user">89e44a2747a29110a4be65a5d36d4380</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

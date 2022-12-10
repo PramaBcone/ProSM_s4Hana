@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Materials By Plant" max_length="40" name="sn_psm_sap_int_product_stg" sizeclass="21040" type="collection">
+        <element label="Base Unit of Measure" max_length="40" name="base_unit_of_measure" type="string"/>
+        <element label="Client" max_length="40" name="client" type="string"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element label="Gross Weight" max_length="40" name="gross_weight" type="integer"/>
+        <element label="Industry Sector" max_length="40" name="industry_sector" type="string"/>
+        <element label="Material Description" max_length="1000" name="material_description" type="string"/>
+        <element label="Material Group" max_length="40" name="material_group" type="string"/>
+        <element label="Material number" max_length="40" name="material_number" type="string"/>
+        <element label="Material Type" max_length="40" name="material_type" type="string"/>
+        <element label="Moving Average Price/Periodic Unit Price" max_length="40" name="moving_average_price_periodic_unit_price" type="string"/>
+        <element label="Plant" max_length="40" name="plant" type="string"/>
+        <element label="Price unit" max_length="40" name="price_unit" type="string"/>
+        <element label="Product Type" max_length="40" name="product_type" type="string"/>
+        <element label="Valuation Class" max_length="40" name="valuation_class" type="string"/>
+    </element>
+</database>

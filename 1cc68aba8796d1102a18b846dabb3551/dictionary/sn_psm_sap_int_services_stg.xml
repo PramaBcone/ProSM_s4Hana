@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Services" max_length="40" name="sn_psm_sap_int_services_stg" sizeclass="0" type="collection">
+        <element label="Activity Number" max_length="18" name="activity_number" type="string"/>
+        <element label="Authorization Group" max_length="4" name="authorization_group" type="string"/>
+        <element label="Base Unit of Measure" max_length="3" name="base_unit_of_measure" type="string"/>
+        <element label="Category of International Article Number (EAN)" max_length="2" name="category_of_international_article_number_ean" type="string"/>
+        <element label="Client" max_length="3" name="client" type="string"/>
+        <element label="Date of Last Change" max_length="8" name="date_of_last_change" type="glide_date_time"/>
+        <element label="Date on Which Record Was Created" max_length="8" name="date_on_which_record_was_created" type="glide_date_time"/>
+        <element label="Deletion Indicator" max_length="1" name="deletion_indicator" type="string"/>
+        <element label="Denominator for Conversion (MEINS &lt;-&gt; IWEIN)" max_length="5" name="denominator_for_conversion_meins_iwein" type="string"/>
+        <element label="Division" max_length="2" name="division" type="string"/>
+        <element label="Edition of Service Type" max_length="4" name="edition_of_service_type" type="string"/>
+        <element label="Formula Number" max_length="10" name="formula_number" type="string"/>
+        <element label="General Purchasing Status for Service" max_length="2" name="general_purchasing_status_for_service" type="string"/>
+        <element label="Hierarchy Service Number" max_length="18" name="hierarchy_service_number" type="string"/>
+        <element label="International Article Number (EAN/UPC)" max_length="18" name="international_article_number_ean_upc" type="string"/>
+        <element label="Material Group" max_length="9" name="material_group" type="string"/>
+        <element label="Name of person who changed object" max_length="12" name="name_of_person_who_changed_object" type="string"/>
+        <element label="Name of Person Who Created the Object" max_length="12" name="name_of_person_who_created_the_object" type="string"/>
+        <element label="Numerator for conversion of MEINS into IWEIN" max_length="5" name="numerator_for_conversion_of_meins_into_iwein" type="string"/>
+        <element label="Package number" max_length="10" name="package_number" type="string"/>
+        <element label="Primary language for object texts" max_length="1" name="primary_language_for_object_texts" type="string"/>
+        <element label="Service Category" max_length="4" name="service_category" type="string"/>
+        <element label="Service Short Text" max_length="40" name="service_short_text" type="string"/>
+        <element label="Short Description of Service Type" max_length="3" name="short_description_of_service_type" type="string"/>
+        <element label="Short Text Change Allowed" max_length="1" name="short_text_change_allowed" type="string"/>
+        <element label="Standard Service Catalog Item" max_length="18" name="standard_service_catalog_item" type="string"/>
+        <element label="Tax Indicator for Service (Purchasing)" max_length="1" name="tax_indicator_for_service_purchasing" type="string"/>
+        <element label="Tax Tariff Code" max_length="16" name="tax_tariff_code" type="string"/>
+        <element label="Uniform resource locator" max_length="132" name="uniform_resource_locator" type="string"/>
+        <element label="Unit for Work" max_length="3" name="unit_for_work" type="string"/>
+        <element label="Validity Date for &quot;Purchasing&quot; Status" max_length="8" name="validity_date_for_purchasing_status" type="glide_date_time"/>
+        <element label="Valuation Class" max_length="4" name="valuation_class" type="string"/>
+        <element label="Wage type" max_length="4" name="wage_type" type="string"/>
+    </element>
+</database>

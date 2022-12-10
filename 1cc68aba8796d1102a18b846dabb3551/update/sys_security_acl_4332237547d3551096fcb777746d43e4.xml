@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_psm_sap_int_services_stg</description>
+        <name>sn_psm_sap_int_services_stg</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>krishna</sys_created_by>
+        <sys_created_on>2022-11-22 08:16:05</sys_created_on>
+        <sys_id>4332237547d3551096fcb777746d43e4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sn_psm_sap_int_services_stg</sys_name>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration with SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_update_name>sys_security_acl_4332237547d3551096fcb777746d43e4</sys_update_name>
+        <sys_updated_by>satyasagar.palivela@snc</sys_updated_by>
+        <sys_updated_on>2022-11-26 05:49:05</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">732efe9328201110a866e68fbebfdf04</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-10-21 07:30:35</sys_created_on>
+        <sys_id>f0f4a62747ae9d5096fcb777746d43ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-10-21 07:30:35</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

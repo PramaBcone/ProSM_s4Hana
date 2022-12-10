@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Materials By Plant">8de44e2747a29110a4be65a5d36d4376</application>
+        <filter/>
+        <name>Materials By Plants</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_psm_sap_int.material_master_staging_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-10-21 05:10:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01e44e2747a29110a4be65a5d36d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Materials By Plants</sys_name>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration with SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_update_name>sys_ui_module_01e44e2747a29110a4be65a5d36d437a</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-10-21 05:10:32</sys_updated_on>
+        <table>sn_psm_sap_int_product_stg</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Procurement Service Management Integration with SAP">1cc68aba8796d1102a18b846dabb3551</application>
+        <file_path/>
+        <instance_id>aa90e7e8db9b959852dd2f17d4961923</instance_id>
+        <instance_name>devpsm002</instance_name>
+        <name>sys_ui_module_01e44e2747a29110a4be65a5d36d437a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Materials By Plant">8de44e2747a29110a4be65a5d36d4376</application>
+        <filter/>
+        <name>Materials By Plants</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_psm_sap_int.material_master_staging_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-10-21 05:10:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01e44e2747a29110a4be65a5d36d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Materials By Plants</sys_name>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration with SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_update_name>sys_ui_module_01e44e2747a29110a4be65a5d36d437a</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-10-21 05:10:32</sys_updated_on>
+        <table>sn_psm_sap_int_product_stg</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>]]></payload>
+        <payload_hash>-702889317</payload_hash>
+        <record_name>Materials By Plants</record_name>
+        <reverted_from/>
+        <source>e003ca7287935110ca0252c73cbb3592</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-25 03:55:27</sys_created_on>
+        <sys_id>62534eb287935110ca0252c73cbb357f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184aced0dd90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-25 03:55:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>22534eb2b49351104743045c82d2b67f</update_guid>
+        <update_guid_history>22534eb2b49351104743045c82d2b67f:-702889317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-25 16:48:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0ec571db495049008211143ebd9530e4</sys_id>
+        <sys_metadata>01e44e2747a29110a4be65a5d36d437a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Materials By Plants</sys_name>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration with SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_scope_delete display_value="">5bcab6522a284c56b32126c15d077101</sys_scope_delete>
+        <sys_update_name>sys_ui_module_01e44e2747a29110a4be65a5d36d437a</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_01e44e2747a29110a4be65a5d36d437a">62534eb287935110ca0252c73cbb357f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-25 16:48:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

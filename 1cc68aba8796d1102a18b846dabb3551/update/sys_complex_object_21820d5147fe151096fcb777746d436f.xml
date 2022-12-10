@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6d820d5174fe15104b01552cb46aa76e</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>1cc68aba8796d1102a18b846dabb3551</scope_name>
+        <serialized_content>{"FlowDesigner:FD6d820d5174fe15104b01552cb46aa76e":{"$COCollectionField":[{"connection_child0":{"FD94828951e9fe15102a2bec3acb0fb0d5":["Any"],"FD94828951e9fe15102a2bec3acb0fb0d5.$field_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Connection\",\"mandatory\":\"false\",\"child_name\":\"connection_child0\",\"uiUniqueId\":\"55d324c7-32f7-418f-808d-71a12257537f\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"Connection_child0\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"0\",\"child_uiUniqueId\":\"0247b1a1-7879-447d-b4cd-f036b1f7d5ee\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Connection\",\"mandatory\":\"false\",\"child_name\":\"connection_child0\",\"uiUniqueId\":\"55d324c7-32f7-418f-808d-71a12257537f\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD6d820d5174fe15104b01552cb46aa76e\",\"child_label\":\"Connection_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"0247b1a1-7879-447d-b4cd-f036b1f7d5ee\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD6d820d5174fe15104b01552cb46aa76e.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Connection\",\"mandatory\":\"false\",\"child_name\":\"connection_child0\",\"uiUniqueId\":\"55d324c7-32f7-418f-808d-71a12257537f\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD6d820d5174fe15104b01552cb46aa76e\",\"child_label\":\"Connection_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"0247b1a1-7879-447d-b4cd-f036b1f7d5ee\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>Mayank</sys_created_by>
+        <sys_created_on>2022-10-26 10:49:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>21820d5147fe151096fcb777746d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1cc68aba8796d1102a18b846dabb3551</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement Service Management Integration with SAP">1cc68aba8796d1102a18b846dabb3551</sys_scope>
+        <sys_update_name>sys_complex_object_21820d5147fe151096fcb777746d436f</sys_update_name>
+        <sys_updated_by>Mayank</sys_updated_by>
+        <sys_updated_on>2022-10-26 10:49:57</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

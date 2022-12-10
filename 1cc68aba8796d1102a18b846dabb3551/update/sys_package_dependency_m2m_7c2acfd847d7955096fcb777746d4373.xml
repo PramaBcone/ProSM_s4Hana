@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Currency support (costs and pricing)" source="com.glide.currency">3f6e325728201110a866e68fbebfdfa7</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>shreenag.araga@snc</sys_created_by>
+        <sys_created_on>2022-11-17 14:39:55</sys_created_on>
+        <sys_id>7c2acfd847d7955096fcb777746d4373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Procurement Service Management Integration with SAP" source="sn_psm_sap_int">1cc68aba8796d1102a18b846dabb3551</sys_package>
+        <sys_updated_by>shreenag.araga@snc</sys_updated_by>
+        <sys_updated_on>2022-11-17 14:39:55</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
